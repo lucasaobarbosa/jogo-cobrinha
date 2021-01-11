@@ -1,0 +1,16 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  #button{
+    background-color: rgb(235, 226, 226);
+    color: rgba(57, 245, 0, 0.842);
+    border: 2px solid #3cff00;
+    margin-bottom: 20px;
+   
+  }
